@@ -22,8 +22,6 @@ GROUP BY `subreddit`
 ORDER BY `subreddit_occurrence` DESC
 LIMIT 10;
 
-# get a baseline for the ratio of undesireable to desirable (accuracy baseline)
-
 ```
 
 ## First run at classification
